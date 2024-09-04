@@ -1,7 +1,8 @@
 ## 👋
 
 > [!NOTE]
-> I'm looking for new owners for a couple of projects I don't have use for anymore. If you're interested, shoot me an email.
+> I'm looking for a new owner for [use-lilius](https://github.com/its-danny/use-lilius). If you're interested, shoot me an email.
 
-- https://github.com/its-danny/use-lilius
-- https://github.com/its-danny/koji
+### Projects relinquished
+
+- https://github.com/cococonscious/koji
